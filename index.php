@@ -28,6 +28,9 @@
                     <li class="nav-item">
                     <a class="nav-link" href="./login.php">Đăng nhập</a>
                     </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="/signup.php">Đăng ký</a>
+                    </li>
                 </ul>
                 <form class="d-flex" role="search">
                     <input class="form-control me-2" type="search" placeholder="Nội dung cần tìm" aria-label="Search">
